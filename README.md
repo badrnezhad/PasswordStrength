@@ -9,4 +9,4 @@ Usage Exammple :
 
 Styles :
 
-<img src="images/images.png">
+<img src="images/image.png">
